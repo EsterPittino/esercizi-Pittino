@@ -1,0 +1,7 @@
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e02 - if else while for\E02_exercise_14\bin\Debug\E02_exercise_14.exe.config
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e02 - if else while for\E02_exercise_14\bin\Debug\E02_exercise_14.exe
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e02 - if else while for\E02_exercise_14\bin\Debug\E02_exercise_14.pdb
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e02 - if else while for\E02_exercise_14\obj\Debug\E02_exercise_14.csproj.CoreCompileInputs.cache
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e02 - if else while for\E02_exercise_14\obj\Debug\E02_exercise_14.exe
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e02 - if else while for\E02_exercise_14\obj\Debug\E02_exercise_14.pdb
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e02 - if else while for\E02_exercise_14\obj\Debug\E02_exercise_14.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E02_exercise_14_Tartaglia_Triangle", "E02_exercise_14_Tartagli_Triangle\E02_exercise_14_Tartaglia_Triangle.csproj", "{637B61E5-D3BF-4B58-98BC-7F6F04B3D224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637B61E5-D3BF-4B58-98BC-7F6F04B3D224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637B61E5-D3BF-4B58-98BC-7F6F04B3D224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637B61E5-D3BF-4B58-98BC-7F6F04B3D224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637B61E5-D3BF-4B58-98BC-7F6F04B3D224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5961278C-6C9C-452A-946E-8DE51A84795E}
+	EndGlobalSection
+EndGlobal
