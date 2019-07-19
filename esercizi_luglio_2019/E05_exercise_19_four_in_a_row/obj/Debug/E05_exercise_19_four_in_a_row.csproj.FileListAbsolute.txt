@@ -12,3 +12,5 @@ C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exer
 C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_19_four_in_a_row\obj\Debug\E05_exercise_19_four_in_a_row.csproj.CoreCompileInputs.cache
 C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_19_four_in_a_row\obj\Debug\E05_exercise_19_four_in_a_row.exe
 C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_19_four_in_a_row\obj\Debug\E05_exercise_19_four_in_a_row.pdb
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_19_four_in_a_row\bin\Debug\E05_exercise_19_four_in_a_row.exe.CodeAnalysisLog.xml
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_19_four_in_a_row\bin\Debug\E05_exercise_19_four_in_a_row.exe.lastcodeanalysissucceeded
