@@ -1,0 +1,14 @@
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e05 - objects, interfaces, events\E05_exercise_11_TicTacToe\bin\Debug\E05_exercise_11_TicTacToe.exe.config
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e05 - objects, interfaces, events\E05_exercise_11_TicTacToe\bin\Debug\E05_exercise_11_TicTacToe.exe
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e05 - objects, interfaces, events\E05_exercise_11_TicTacToe\bin\Debug\E05_exercise_11_TicTacToe.pdb
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e05 - objects, interfaces, events\E05_exercise_11_TicTacToe\obj\Debug\E05_exercise_11_TicTacToe.csprojAssemblyReference.cache
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e05 - objects, interfaces, events\E05_exercise_11_TicTacToe\obj\Debug\E05_exercise_11_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e05 - objects, interfaces, events\E05_exercise_11_TicTacToe\obj\Debug\E05_exercise_11_TicTacToe.exe
+C:\Users\pittino\Desktop\Corso C#\progetti corso\exercises\e05 - objects, interfaces, events\E05_exercise_11_TicTacToe\obj\Debug\E05_exercise_11_TicTacToe.pdb
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_11_TicTacToe\bin\Debug\E05_exercise_11_TicTacToe.exe.config
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_11_TicTacToe\bin\Debug\E05_exercise_11_TicTacToe.exe
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_11_TicTacToe\bin\Debug\E05_exercise_11_TicTacToe.pdb
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_11_TicTacToe\obj\Debug\E05_exercise_11_TicTacToe.csprojAssemblyReference.cache
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_11_TicTacToe\obj\Debug\E05_exercise_11_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_11_TicTacToe\obj\Debug\E05_exercise_11_TicTacToe.exe
+C:\Users\pittino\Desktop\Corso C#\esercizi-Pittino\esercizi_luglio_2019\E05_exercise_11_TicTacToe\obj\Debug\E05_exercise_11_TicTacToe.pdb
